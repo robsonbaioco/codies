@@ -1,8 +1,6 @@
 //Just a simple test.
 #include <stdio.h>
 int main(){
-  printf("Heloo World!");
+  printf("Hello World!");
   return 0;
 }
-
-//hello mundo
