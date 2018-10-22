@@ -1,2 +1,2 @@
 # Codies
-codes in C/C++ for recreative proposes :)
+codes in C/C++ for recreative purpose :)
