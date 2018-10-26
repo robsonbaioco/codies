@@ -38,6 +38,6 @@ main(){
 		Sleep(500);
 	}
 	n--;
-	printf("mas nenhum patinho voltou de la");
+	printf("mas nenhum patinho voltou de laaaaa");
 	Sleep(100000000);
 }
