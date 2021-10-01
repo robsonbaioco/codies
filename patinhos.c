@@ -22,7 +22,7 @@ main(){
 		if(n>1){
 			
 		}else{
-			printf("mas 1 patinho voltou de la \n", n);
+			printf("mas 1 patinho voltou de la \n", n); //qual a necessidade dessa variavel?kkkk
 		}
 		Sleep(1500);
 		system ("cls");
