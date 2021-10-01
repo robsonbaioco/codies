@@ -22,7 +22,9 @@ main(){
 		if(n>1){
 			
 		}else{
-			printf("mas só 1 rolinha voltou de la \n", n);//porque a variavel "n" se n printa? kkkk
+
+			printf("mas só 1 rolinha voltou de la \n");
+
 		}
 		Sleep(1500);
 		system ("cls");
