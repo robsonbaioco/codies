@@ -20,3 +20,6 @@ int main(void){
     }
 	return 0;
 }
+float cu(int n, int j){
+	return (float(n/j));
+}
