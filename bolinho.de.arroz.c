@@ -2,8 +2,9 @@
 #include <windows.h>
 #include <conio.h>
 #include <stdlib.h>
+//comentário para testar o editor online embutido
 int main() {
-	int n=10000;//podia ter colocado esse valor dentro do laço, ocupando memoria atoa kkk
+	int n=10000;
 	int i;
     for(i=0;i<n;i++){
     	printf("Eu xou um bolinho de arroix \n");
