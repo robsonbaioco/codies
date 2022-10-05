@@ -40,6 +40,6 @@ main(){
 		Sleep(500);
 	}
 	n--;
-	printf("mas nenhuma caralha voltou de laaaaa");
+	printf("mas um ano que volto aqui");
 	Sleep(100000000);
 }
