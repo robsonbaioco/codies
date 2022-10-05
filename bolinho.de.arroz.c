@@ -7,9 +7,10 @@ int main() {
 	int n=10000;
 	int i;
     for(i=0;i<n;i++){
-    	printf("Eu sou um bolinho de piroca \n");
-    	Sleep(950);
-    	printf("(de piroca!) \n");
+    	printf("Eu sou um bolinho de arroz \n");
+    	// a função sleep está configurada com um intervalo de 95 milisegundos
+	    Sleep(950);
+    	printf("(de arroz!) \n");
     	Sleep(950);
     	system("cls");
     	printf("Minhas bolinhas vieram so depois \n");
